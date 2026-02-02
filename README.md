@@ -2,70 +2,62 @@
   <img src="assets/appicon-Cw-0pEH1.png" width="128" height="128" alt="HyPrism Logo">
 </p>
 
-<h1 align="center">HyPrism Site</h1>
+<h1 align="center">HyPrism Portal</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live-yyyumeniku.github.io/hyprism--site-d4a373?style=for-the-badge" alt="Website">
-  <a href="https://buymeacoffee.com/yyyumeniku">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  <img src="https://img.shields.io/badge/Status-Online-d4a373?style=for-the-badge" alt="Status">
+  <a href="https://yyyumeniku.github.io/hyprism-site/">
+    <img src="https://img.shields.io/badge/Live-Demo-white?style=for-the-badge&logo=github&labelColor=d4a373" alt="Live Site">
   </a>
 </p>
 
 <p align="center">
-  <strong>The next generation of high-performance launchers. Optimized. Secure. Beautiful.</strong>
+  <strong>The official high-performance landing page for the HyPrism ecosystem.</strong>
 </p>
 
 ---
 
-## 📸 Interface Preview
+## 📸 Web Interface
 <p align="center">
-  <img src="assets/Hyprism.png" width="100%" style="border-radius: 20px; border: 1px solid #d4a373;" alt="HyPrism Launcher Dashboard">
+  <img src="assets/Hyprism.png" width="100%" style="border-radius: 20px; border: 1px solid #d4a373;" alt="HyPrism Site Preview">
 </p>
 
 ---
 
-## 🛠️ Advanced Features (Site & Launcher)
+## 🛠️ Key Web Features
 
-The **HyPrism** ecosystem was developed with a focus on exclusivity and cutting-edge technology:
+This landing page was built to provide a premium and secure experience:
 
-* **🚀 Real-Time Sync:** Direct connectivity with the GitHub API to display the current version (`Stable Release`) and real-time download count.
-* **🎵 Immersive Audio Engine:** Dynamic soundtrack system that randomly switches between 7 exclusive `.ogg` themes upon site startup.
-* **🛡️ Developer Protection:** Advanced blocking of `F12`, `Ctrl+Shift+I`, and context menu (right-click) to protect visual integrity and original code.
-* **📥 Smart Download:** Automatic binary recognition. The site identifies and delivers `.exe` (Windows), `.dmg` (macOS), and `.AppImage` (Linux) files directly from the latest stable release.
-* **🎨 Premium UI/UX:**
-    * **AOS (Animate On Scroll)** entrance animations.
-    * Background Engine with 30+ high-quality fluid transitions.
-    * *Golden Glow* effect on official platform icons.
+* 🎵 **Adaptive Audio Engine:** Automatically plays one of 7 exclusive `.ogg` background tracks on user interaction.
+* 🛡️ **Source Code Shield:** Advanced security scripts to disable `F12`, `Inspect Element`, and `Context Menu` to prevent unauthorized code copying.
+* 🚀 **Smart Asset Delivery:** Dynamically fetches the latest launcher releases (.exe, .dmg, .AppImage) directly from the GitHub API.
+* 🎨 **Glassmorphism UI:** Built with a custom gold-themed design featuring blurred backgrounds and glow effects.
+* ✨ **Motion Design:** Smooth entrance animations powered by **AOS.js** and high-fidelity transitions.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 
-- **Frontend:** HTML5, Tailwind CSS (Custom Amber Theme)
-- **Animation:** AOS.js, Lucide Icons
-- **Backend Sync:** GitHub REST API v3
-- **Audio Engine:** HTML5 Audio API (Ogg Vorbis Support)
-- **Local Dev:** `python3 -m http.server 8080`
-
----
-
-## 🔒 Security & Privacy
-
-The website code features protection layers against reverse engineering to ensure that the visual experience created by **yyyumeniku** remains unique. 
-> "Protection is the guarantee of originality."
+- **Styling:** HTML5 & Tailwind CSS (Custom Golden Palette)
+- **Icons:** Lucide Icons (Rendered with official brand proportions)
+- **Logic:** Vanilla JavaScript for security and audio randomization
+- **Deployment:** GitHub Pages
+- **Automation:** Real-time sync with Release API
 
 ---
 
-## 👥 Contributors
+## 🔒 Security Policy
 
-Thanks to our dynamic API, all contributors helping develop **HyPrism Launcher** are automatically highlighted on the official site with their respective avatars and stats.
+This site implements strict client-side protection. To ensure the originality of the design and animations created by **yyyumeniku**, standard developer tools are restricted for regular users.
+> "Exclusivity is protected by code."
 
 ---
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**. Website developed by **yyyumeniku**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developed%20with%20❤️%20by-yyyumeniku-d4a373?style=flat-square" alt="Creator">
+  <img src="https://img.shields.io/badge/Developer-yyyumeniku-d4a373?style=flat-square" alt="Creator">
+  <img src="https://img.shields.io/badge/Category-Landing%20Page-d4a373?style=flat-square" alt="Category">
 </p>
