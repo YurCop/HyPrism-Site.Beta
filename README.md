@@ -17,30 +17,29 @@
 
 ---
 
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/camera.svg" width="20"> Interface Preview
-
+## 📸 Interface Preview
 <p align="center">
   <img src="assets/Hyprism.png" width="100%" style="border-radius: 20px; border: 1px solid #d4a373;" alt="HyPrism Launcher Dashboard">
 </p>
 
 ---
 
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/settings.svg" width="20"> Advanced Features (Site & Launcher)
+## 🛠️ Advanced Features (Site & Launcher)
 
-O ecossistema **HyPrism** foi desenvolvido com foco em exclusividade e tecnologia de ponta:
+The **HyPrism** ecosystem was developed with a focus on exclusivity and cutting-edge technology:
 
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg" width="16"> **Real-Time Sync:** Conectividade direta com a API do GitHub para exibir a versão atual (`Stable Release`) e contagem de downloads em tempo real.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/volume-2.svg" width="16"> **Immersive Audio Engine:** Sistema de trilha sonora dinâmica que alterna aleatoriamente entre 7 temas `.ogg` exclusivos ao iniciar o site.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="16"> **Developer Protection:** Bloqueio avançado de `F12`, `Ctrl+Shift+I` e menu de contexto (clique direito) para proteger a integridade visual e o código original.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg" width="16"> **Smart Download:** Reconhecimento automático de binários. O site identifica e entrega os arquivos `.exe` (Windows), `.dmg` (macOS) e `.AppImage` (Linux) direto da última release estável.
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/palette.svg" width="16"> **Premium UI/UX:**
-    * Animações de entrada com **AOS (Animate On Scroll)**.
-    * Background Engine com 30+ transições fluidas de alta qualidade.
-    * Efeito de *Glow Dourado* em ícones oficiais das plataformas.
+* **🚀 Real-Time Sync:** Direct connectivity with the GitHub API to display the current version (`Stable Release`) and real-time download count.
+* **🎵 Immersive Audio Engine:** Dynamic soundtrack system that randomly switches between 7 exclusive `.ogg` themes upon site startup.
+* **🛡️ Developer Protection:** Advanced blocking of `F12`, `Ctrl+Shift+I`, and context menu (right-click) to protect visual integrity and original code.
+* **📥 Smart Download:** Automatic binary recognition. The site identifies and delivers `.exe` (Windows), `.dmg` (macOS), and `.AppImage` (Linux) files directly from the latest stable release.
+* **🎨 Premium UI/UX:**
+    * **AOS (Animate On Scroll)** entrance animations.
+    * Background Engine with 30+ high-quality fluid transitions.
+    * *Golden Glow* effect on official platform icons.
 
 ---
 
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/monitor.svg" width="20"> Tech Stack
+## 💻 Tech Stack
 
 - **Frontend:** HTML5, Tailwind CSS (Custom Amber Theme)
 - **Animation:** AOS.js, Lucide Icons
@@ -50,20 +49,20 @@ O ecossistema **HyPrism** foi desenvolvido com foco em exclusividade e tecnologi
 
 ---
 
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/lock.svg" width="20"> Security & Privacy
+## 🔒 Security & Privacy
 
-O código do site possui camadas de proteção contra engenharia reversa para garantir que a experiência visual criada pelo **yyyumeniku** permaneça única. 
-> "A proteção é a garantia da originalidade."
-
----
-
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users.svg" width="20"> Contributors
-
-Graças à nossa API dinâmica, todos os contribuidores que ajudam no desenvolvimento do **HyPrism Launcher** são destacados automaticamente no site com seus respectivos avatares e estatísticas.
+The website code features protection layers against reverse engineering to ensure that the visual experience created by **yyyumeniku** remains unique. 
+> "Protection is the guarantee of originality."
 
 ---
 
-## ![]() <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/file-text.svg" width="20"> License
+## 👥 Contributors
+
+Thanks to our dynamic API, all contributors helping develop **HyPrism Launcher** are automatically highlighted on the official site with their respective avatars and stats.
+
+---
+
+## 📜 License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
