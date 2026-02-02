@@ -2,7 +2,7 @@
   <img src="assets/appicon-Cw-0pEH1.png" width="128" height="128" alt="HyPrism Logo">
 </p>
 
-<h1 align="center">HyPrism Launcher</h1>
+<h1 align="center">HyPrism Site</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Live-yyyumeniku.github.io/hyprism--site-d4a373?style=for-the-badge" alt="Website">
