@@ -1,4 +1,4 @@
-<p align="center">
+no<p align="center">
   <img src="assets/appicon-Cw-0pEH1.png" width="128" height="128" alt="HyPrism Logo">
 </p>
 
@@ -17,26 +17,19 @@
 
 ---
 
-## 📸 Web Interface
-<p align="center">
-  <img src="assets/Hyprism.png" width="100%" style="border-radius: 20px; border: 1px solid #d4a373;" alt="HyPrism Site Preview">
-</p>
-
----
-
-## 🛠️ Key Web Features
+## Key Web Features
 
 This landing page was built to provide a premium and secure experience:
 
-* 🎵 **Adaptive Audio Engine:** Automatically plays one of 7 exclusive `.ogg` background tracks on user interaction.
-* 🛡️ **Source Code Shield:** Advanced security scripts to disable `F12`, `Inspect Element`, and `Context Menu` to prevent unauthorized code copying.
-* 🚀 **Smart Asset Delivery:** Dynamically fetches the latest launcher releases (.exe, .dmg, .AppImage) directly from the GitHub API.
-* 🎨 **Glassmorphism UI:** Built with a custom gold-themed design featuring blurred backgrounds and glow effects.
-* ✨ **Motion Design:** Smooth entrance animations powered by **AOS.js** and high-fidelity transitions.
+* **Adaptive Audio Engine:** Automatically plays one of 7 exclusive `.ogg` background tracks on user interaction.
+* **Source Code Shield:** Advanced security scripts to disable `F12`, `Inspect Element`, and `Context Menu` to prevent unauthorized code copying.
+* **Smart Asset Delivery:** Dynamically fetches the latest launcher releases (.exe, .dmg, .AppImage) directly from the GitHub API.
+* **Glassmorphism UI:** Built with a custom gold-themed design featuring blurred backgrounds and glow effects.
+* **Motion Design:** Smooth entrance animations powered by **AOS.js** and high-fidelity transitions.
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 - **Styling:** HTML5 & Tailwind CSS (Custom Golden Palette)
 - **Icons:** Lucide Icons (Rendered with official brand proportions)
@@ -46,16 +39,16 @@ This landing page was built to provide a premium and secure experience:
 
 ---
 
-## 🔒 Security Policy
+## Security Policy
 
-This site implements strict client-side protection. To ensure the originality of the design and animations created by **yyyumeniku**, standard developer tools are restricted for regular users.
+This site implements strict client-side protection. To ensure the originality of the design and animations created by **YurCop**, standard developer tools are restricted for regular users.
 > "Exclusivity is protected by code."
 
 ---
 
-## 📜 License
+## License
 
-Distributed under the **MIT License**. Website developed by **yyyumeniku**.
+Distributed under the **MIT License**. Website developed by **YurCop**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-yyyumeniku-d4a373?style=flat-square" alt="Creator">
